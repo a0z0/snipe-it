@@ -14,7 +14,7 @@ __This is web-based software__. This means there is no executable file (aka no .
 
 -----
 
-### Installation
+### Installationx
 
 For instructions on installing and configuring Snipe-IT on your server, check out the [installation manual](https://snipe-it.readme.io/docs). (Please see the [requirements documentation](https://snipe-it.readme.io/docs/requirements) for full requirements.)
 
@@ -52,7 +52,7 @@ Please see the [translations documentation](https://snipe-it.readme.io/docs/tran
 
 ### Libraries, Modules & Related Projects
 
-Since the release of the JSON REST API, several third-party developers have been developing modules and libraries to work with Snipe-IT.  
+Since the release of the JSON REST API, several third-party developers have been developing modules and libraries to work with Snipe-IT.
 
 - [Python Module](https://github.com/jbloomer/SnipeIT-PythonAPI) by [@jbloomer](https://github.com/jbloomer)
 - [SnipeSharp - .NET module in C#](https://github.com/barrycarey/SnipeSharp) by [@barrycarey](https://github.com/barrycarey)
@@ -60,7 +60,7 @@ Since the release of the JSON REST API, several third-party developers have been
 - [SnipeitPS](https://github.com/snazy2000/SnipeitPS) by [@snazy2000](https://github.com/snazy2000) - Powershell API Wrapper for Snipe-it
 - [jamf2snipe](https://github.com/ParadoxGuitarist/jamf2snipe) by [@ParadoxGuitarist](https://github.com/ParadoxGuitarist) - Python script to sync assets between a JAMFPro instance and a Snipe-II instance
 
-As these were created by third-parties, Snipe-IT cannot provide support for these project, and you should contact the developers directly if you need assistance. Additionally, Snipe-IT makes no guarantees as to the reliability, accuracy or maintainability of these libraries. Use at your own risk. :) 
+As these were created by third-parties, Snipe-IT cannot provide support for these project, and you should contact the developers directly if you need assistance. Additionally, Snipe-IT makes no guarantees as to the reliability, accuracy or maintainability of these libraries. Use at your own risk. :)
 
 -----
 
@@ -113,4 +113,4 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ### Security
 
-To report a security vulnerability, please email security@snipeitapp.com instead of using the issue tracker. 
+To report a security vulnerability, please email security@snipeitapp.com instead of using the issue tracker.
